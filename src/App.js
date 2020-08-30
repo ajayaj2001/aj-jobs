@@ -5,6 +5,9 @@ import Home from './home/Home';
 import Footer from './home/Footer';
 import Header from './header/Header';
 import About from './about/About';
+import Services from './services/Services';
+import Blogs from './blogs/Blogs';
+import Contact from './contact/Contact';
 // import logo from "./content/logo192.png";
 // rafce
 
@@ -19,13 +22,13 @@ function App() {
             <About />
           </Route>
           <Route path="/blogs">
-            <Home />
+            <Blogs />
           </Route>
           <Route path="/services">
-            <Home />
+            <Services />
           </Route>
           <Route path="/contact">
-            <Home />
+            <Contact />
           </Route>
           <Route path="/">
             <Home />

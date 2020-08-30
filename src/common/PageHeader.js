@@ -1,14 +1,14 @@
 import React from 'react'
-import './AboutSection1.scss'
-const AboutSection1 = () => {
+import './PageHeader.scss'
+const PageHeader = props => {
     return (
         <div>
             <section id="img-bg" className="text-center text-white py-5" >
                 <div className="container">
                     <div className="row">
                         <div className="col">
-                            <h1>About Us</h1>
-                            <p>Always Hungery Always Develop</p>
+                            <h1>{props.header}</h1>
+                            <p>{props.content}</p>
                         </div>
                     </div>
                 </div>
@@ -17,4 +17,4 @@ const AboutSection1 = () => {
     )
 }
 
-export default AboutSection1
+export default PageHeader

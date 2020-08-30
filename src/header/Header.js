@@ -11,7 +11,7 @@ const Header = () => {
         </button>
         <div class="collapse navbar-collapse " id="navbarNav">
           <ul class="navbar-nav ml-auto mr-5">
-            <li class="nav-item active px-3">
+            <li class="nav-item  px-3">
               <Link className="nav-link" to="/">Home</Link>
             </li>
             <li class="nav-item px-2">

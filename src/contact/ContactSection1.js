@@ -23,7 +23,7 @@ const ContactSection1 = () => {
                         <div className="col-md-7">
                             <div className="card">
                                 <div className="card-body">
-                                    <h3 class="text-center mt-5">Please Fill The Form To Contact Us</h3>
+                                    <h3 className="text-center mt-5">Please Fill The Form To Contact Us</h3>
                                     <hr></hr>
                                     <div className="row">
                                         <div className="col-md-6">

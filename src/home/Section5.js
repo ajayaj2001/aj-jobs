@@ -11,9 +11,9 @@ const Section5 = () => {
                             <p>Lets Rock the world signup now ,fill the application wait for call,do job in online lets earn more than your friends develop your skilss while
                             doing job hurry up! Winner Winner Chicken Dinner
                             </p>
-                            <form class="form-inline justify-content-center">
-                                <input class="form-control mb-2 mr-sm-2 mb-sm-0" type="text" placeholder="Enter Name"></input>
-                                <input class="form-control mb-2 mr-sm-2 mb-sm-0" type="email" placeholder="Enter Email"></input>
+                            <form className="form-inline justify-content-center">
+                                <input className="form-control mb-2 mr-sm-2 mb-sm-0" type="text" placeholder="Enter Name"></input>
+                                <input className="form-control mb-2 mr-sm-2 mb-sm-0" type="email" placeholder="Enter Email"></input>
                                 <button className="btn btn-primary" type="submit">Submit</button>
                             </form>
                         </div>

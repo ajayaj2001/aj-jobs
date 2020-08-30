@@ -3,8 +3,8 @@ import React from 'react'
 const AboutSection4 = () => {
     return (
         <div>
-            <section class="p-4 bg-dark text-white">
-                <div class="container">
+            <section className="p-4 bg-dark text-white">
+                <div className="container">
                     <h1 className="text-center">Quote's BY Public</h1>
                     <div className="row">
                         <div className="col">

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-1st/static/css/main.3b5709e8.chunk.css",
-    "main.js": "/react-1st/static/js/main.00f22bdb.chunk.js",
-    "main.js.map": "/react-1st/static/js/main.00f22bdb.chunk.js.map",
-    "runtime-main.js": "/react-1st/static/js/runtime-main.0c85d774.js",
-    "runtime-main.js.map": "/react-1st/static/js/runtime-main.0c85d774.js.map",
-    "static/css/2.11829350.chunk.css": "/react-1st/static/css/2.11829350.chunk.css",
-    "static/js/2.62ba62dd.chunk.js": "/react-1st/static/js/2.62ba62dd.chunk.js",
-    "static/js/2.62ba62dd.chunk.js.map": "/react-1st/static/js/2.62ba62dd.chunk.js.map",
-    "index.html": "/react-1st/index.html",
-    "precache-manifest.3a814d312160e83ced47ca2b462134dc.js": "/react-1st/precache-manifest.3a814d312160e83ced47ca2b462134dc.js",
-    "service-worker.js": "/react-1st/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/react-1st/static/css/2.11829350.chunk.css.map",
-    "static/css/main.3b5709e8.chunk.css.map": "/react-1st/static/css/main.3b5709e8.chunk.css.map",
-    "static/js/2.62ba62dd.chunk.js.LICENSE.txt": "/react-1st/static/js/2.62ba62dd.chunk.js.LICENSE.txt"
+    "main.css": "/aj-jobs/static/css/main.3b5709e8.chunk.css",
+    "main.js": "/aj-jobs/static/js/main.ee1ca353.chunk.js",
+    "main.js.map": "/aj-jobs/static/js/main.ee1ca353.chunk.js.map",
+    "runtime-main.js": "/aj-jobs/static/js/runtime-main.c15f0f23.js",
+    "runtime-main.js.map": "/aj-jobs/static/js/runtime-main.c15f0f23.js.map",
+    "static/css/2.11829350.chunk.css": "/aj-jobs/static/css/2.11829350.chunk.css",
+    "static/js/2.62ba62dd.chunk.js": "/aj-jobs/static/js/2.62ba62dd.chunk.js",
+    "static/js/2.62ba62dd.chunk.js.map": "/aj-jobs/static/js/2.62ba62dd.chunk.js.map",
+    "index.html": "/aj-jobs/index.html",
+    "precache-manifest.4837ab5be33d62e1dd26e493d812845b.js": "/aj-jobs/precache-manifest.4837ab5be33d62e1dd26e493d812845b.js",
+    "service-worker.js": "/aj-jobs/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/aj-jobs/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3b5709e8.chunk.css.map": "/aj-jobs/static/css/main.3b5709e8.chunk.css.map",
+    "static/js/2.62ba62dd.chunk.js.LICENSE.txt": "/aj-jobs/static/js/2.62ba62dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c85d774.js",
+    "static/js/runtime-main.c15f0f23.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.62ba62dd.chunk.js",
     "static/css/main.3b5709e8.chunk.css",
-    "static/js/main.00f22bdb.chunk.js"
+    "static/js/main.ee1ca353.chunk.js"
   ]
 }

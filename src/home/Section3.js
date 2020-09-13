@@ -1,16 +1,17 @@
 import React from 'react'
 import './Section3.scss'
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPlay } from "@fortawesome/free-solid-svg-icons";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faPlay} from "@fortawesome/free-solid-svg-icons";
+
 const Section3 = () => {
   return (
-    <div>
-      <section id="img-head" className="p-5 ">
-        <div id="dark-overlay" className="container">
-          <div className="row">
-            <div className="col pt-5 text-center ">
-              <h1>Are you Ready Guys?</h1>
-              <p>Join Now ,do simple test get your Job</p>
+      <div>
+        <section id="img-head" className="p-5 ">
+          <div id="dark-overlay" className="container">
+            <div className="row">
+              <div className="col pt-5 text-center ">
+                <h1>Are you Ready Guys?</h1>
+                <p>Join Now ,do simple test get your Job</p>
             </div>
           </div>
         </div>
@@ -36,15 +37,15 @@ const Section3 = () => {
           <div className="row">
             <div className="col">
               <div className="container p-5">
-                <a
-                  href="#"
-                  className="video"
-                  data-video="https://www.youtube.com/embed/HnwsG9a5riA"
-                  data-toggle="modal"
-                  data-target="#videoModal"
+                <button
+                    href="#"
+                    className="video"
+                    data-video="https://www.youtube.com/embed/HnwsG9a5riA"
+                    data-toggle="modal"
+                    data-target="#videoModal"
                 >
-                  <FontAwesomeIcon icon={faPlay} className="fa-icon" />
-                </a>
+                  <FontAwesomeIcon icon={faPlay} className="fa-icon"/>
+                </button>
                 <h1>See What We Do</h1>
               </div>
             </div>

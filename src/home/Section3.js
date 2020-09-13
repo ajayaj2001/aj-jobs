@@ -56,7 +56,7 @@ const Section3 = () => {
           <div className="modal-content">
             <div className="modal-body">
               <button className="close" data-dismiss="modal"><span>&times;</span></button>
-              <iframe src="https://www.youtube.com/embed/HnwsG9a5riA" height="350" width="100%" frameBorder="0" allowFullScreen></iframe>
+              <iframe title="Youtube video" src="https://www.youtube.com/embed/HnwsG9a5riA" height="350" width="100%" frameBorder="0" allowFullScreen/>
             </div>
           </div>
         </div>
